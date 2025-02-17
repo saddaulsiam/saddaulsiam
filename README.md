@@ -41,7 +41,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saddaulsiam&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddaulsiam&theme=radical" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=saddaulsiam&theme=radical&no-bg=true&margin-w=10" alt="Trophies">
+  
 </div>
 
 ---
