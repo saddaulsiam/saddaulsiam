@@ -1,34 +1,57 @@
-### Hi there 👋, my name is Saddaul Siam
-#### Fullstack Web Developer
-![Fullstack Web Developer](https://res.cloudinary.com/dtkl4ic8s/image/upload/v1705766961/jovs7mbjtm33xvcqzwkg.jpg)
+<h1 align="center">Hi there 👋, I'm Saddaul Siam</h1>
+<h3 align="center">Fullstack Web Developer | Passionate about JavaScript & Modern Web Technologies</h3>
 
-I’m Saddaul Siam and I’m a Web Developer
-I’m from Pabna Bangladesh. I’m currently pursuing a Diploma in computer science and engineering from Pabna Polytechnic Institute , Pabna.
+<p align="center">
+  <img src="https://res.cloudinary.com/dtkl4ic8s/image/upload/v1705766961/jovs7mbjtm33xvcqzwkg.jpg" width="100%" alt="Banner">
+</p>
 
-I have learned last two years a few web-related technologies and programming languages like HTML, CSS, Bootstrap, JavaScript, React.js, MaterialUI, Node Expresss.js , MongoDB, and Firebase Authentication system.
+---
 
-While in love with JavaScript, my preference is to learn and adapt to popular frameworks, libraries, and packages in order to keep pace with the changing web environment.
+### 💡 About Me
+- 🎓 Pursuing a **Diploma in Computer Science** at Pabna Polytechnic Institute, Bangladesh.
+- 💻 Web development enthusiast with **2+ years** of experience.
+- 🔥 Passionate about **JavaScript, React, Next.js, and modern web technologies**.
+- 🚀 Always learning and adapting to new frameworks, libraries, and best practices.
 
-Skills: HTML / CSS / REACT / NEXT Js / JavaScript / TypeScript / Node / Express / MongoDB / Redux / Firebase / Material UI / Bootstrap / Tailwind
+---
 
-- 🔭 I’m currently working on Programming Hero 
-- 🌱 I’m currently learning Redux 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+### 🚀 Tech Stack
 
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saddaulsiam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saddaulsiam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saddaulsiam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saddaulsiam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saddaulsiam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://saddaul-siam.vercel.app)  
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saddaulsiam)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saddaulsiam&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddaulsiam&theme=radical" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=saddaulsiam&theme=radical&no-bg=true&margin-w=10" alt="Trophies">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saddaulsiam)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saddaulsiam&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/saddaulsiam)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saddaulsiam)  
-
-
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/saddaulsiam"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saddaulsiam/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/saddaulsiam"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/saddaulsiam/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/saddaulsiam"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
+  <a href="https://saddaul-siam.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"></a>
+</p>
